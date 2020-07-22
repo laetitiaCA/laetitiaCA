@@ -8,7 +8,7 @@ I'm a STACK author on Moodle (https://ecampus.idems.international/course/view.ph
 - 🌱 I’m currently learning HTML,CSS and Javascript.
 - 👯 I’m looking to collaborate on developing an interactive website.
 - 🤔 I’m looking for help with reviewing code documentation.
-- 💬 Ask me about best unknown hiking terrains along the Rift Valley, Kenya.
+- 💬 Ask me about best unknown hiking trails along the Rift Valley, Kenya.
 - 📫 How to reach me: claetitia.a@gmail.com or Twitter https://twitter.com/c__laetitia
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love cycling and i'm currently building up my lieage to eventually be able to do my first gran fondo! Oh, and my iris change color. 👁👁.
