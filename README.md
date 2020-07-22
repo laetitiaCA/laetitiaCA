@@ -1,5 +1,7 @@
 ### Hi, I'm Laetitia 👋
 
+<img align="right" src="https://github.com/laetitiaCA/laetitiaCA/blob/master/laetittia_readme.JPG">
+
 I'm a STACK author on Moodle (https://ecampus.idems.international/course/view.php?id=53), mathcamp facilitator and a 21st Century Skills facilitator. I'm the creator of https://twitter.com/c__laetitia, an instagram page that features hiking trails along the Rift Valley, Kenya. I currently work as a at African Maths Intiative.
 
 - 🔭 I’m currently working on a webiste for a virtual Mathcamp, besides other coding work.
