@@ -13,7 +13,7 @@ I'm a STACK author on Moodle (https://ecampus.idems.international/course/view.ph
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love cycling and i'm currently building up my lieage to eventually be able to do my first gran fondo! Oh, and my iris change color. 👁👁.
 
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=laetitiaCA&show_icons=true&theme=radical)
 
 <!--
 **laetitiaCA/laetitiaCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
