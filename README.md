@@ -15,6 +15,8 @@ Things i am learning right now:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love cycling and i'm currently building up my mileage to eventually be able to do my first gran fondo! Oh, and my iris change color. 👁👁.
 
+Check out my short bio:https://docs.google.com/document/d/1gZ-lDP0qUIvb7MHGFIe_z0VX_E2ZnrUJtZik_nVsNJw/edit#heading=h.649j418u7tkp
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=laetitiaCA&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laetitiaCA)](https://github.com/laetitiaCA/github-readme-stats)
