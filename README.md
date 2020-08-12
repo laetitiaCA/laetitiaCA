@@ -2,7 +2,9 @@
 
 <img align="right" src="https://github.com/laetitiaCA/laetitiaCA/blob/master/laetittia_readme.JPG">
 
-I'm a STACK author and reviewer on Moodle (https://ecampus.idems.international/course/view.php?id=53), a mathcamp facilitator and a 21st Century Skills facilitator. I'm the creator of https://twitter.com/c__laetitia, an instagram page that features hiking trails along the Rift Valley, Kenya. I currently work as a volunteer at African Maths Intiative.
+Besides playing with data, I'm a STACK author and reviewer on Moodle (https://ecampus.idems.international/course/view.php?id=53), a mathcamp facilitator and a 21st Century Skills facilitator. I'm the creator of https://twitter.com/c__laetitia, an instagram page that features hiking trails along the Rift Valley, Kenya. My background is Applied Statistics. I currently work at African Maths Intiative.
+
+Things i am learning right now:
 
 - 🔭 I’m currently working on a webiste for a virtual Mathcamp, besides other coding work.
 - 🌱 I’m currently learning HTML,CSS and Javascript.
